@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sonu Kumar
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Tableau
+- 💞️ I’m looking to collaborate on Data Science and Data Analyst Projects
+- 📫 How to reach me mr.sksonukumar@gmail.com
